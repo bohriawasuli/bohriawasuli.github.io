@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bohriawasuli.github.io/sitemap.xml
